@@ -1,3 +1,4 @@
+//converts binary to decimal and decimal to binary (doesnt work with fractional parts)
 #include <stdio.h>
 #include <math.h>
 

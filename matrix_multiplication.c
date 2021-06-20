@@ -3,7 +3,7 @@
 int main() {
     // AxB!=BxA
     //number of rows of A=number of colomns of B for AxB
-    //for now assuming that user will enter both matrixes that have same num r,c
+    //for now assuming that user will enter both matrixes that have valid rows and coloumns for multiplication
     int num_ra,num_ca,num_rb,num_cb,mat_a[100][100],mat_b[100][100],mat_mult[100][100],ra_idx,ca_idx;
     int rb_idx,cb_idx;
     //read in elements for matrix a

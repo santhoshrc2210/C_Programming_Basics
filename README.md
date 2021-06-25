@@ -1,6 +1,6 @@
 # C_programs_basics
 Some interesting codes I wrote while learning the basics of C programming in Xcode.
-Topics covered:
+Topics (to be)covered:
 1. Loops
 2. Arrays
 3. Functions

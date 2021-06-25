@@ -7,6 +7,6 @@ Topics covered:
 4. Strings
 5. Structures and Unions
 6. Pointers
-7. Pattern genrators
+7. Pattern generators
 8. Linked lists
 9. Sorting

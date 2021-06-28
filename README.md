@@ -10,3 +10,5 @@ Topics (to be)covered:
 7. Pattern generators
 8. Linked lists
 9. Sorting
+
+Sources: programmingwithbasics.com, Balguruswamy, sanfoundry and geeksforgeeks

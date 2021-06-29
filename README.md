@@ -11,4 +11,4 @@ Topics (to be)covered:
 8. Linked lists
 9. Sorting
 
-Sources: programmingwithbasics.com, Balguruswamy, sanfoundry, mycodeschool and geeksforgeeks
+Sources: programmingwithbasics.com and Ritchie + [Balguruswamy, sanfoundry, mycodeschool and geeksforgeeks]

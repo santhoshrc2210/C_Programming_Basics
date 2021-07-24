@@ -12,7 +12,7 @@ int main() {
     for (i=0;i<len;i++){
         scanf("%d",&arr[i]);
     }
-    //reverse array by swapping the elements only for one half of the array
+    //reverse array by swapping the elements, iterate only for one half of the array
     for (i=0;i<len/2;i++){
         temp=arr[i];
         arr[i]=arr[(len-1)-i];

@@ -1,0 +1,2 @@
+continue skips the rest of the iterations of inner most loop for nested most loops
+In a nested loop, a break statement only stops the loop it is placed in. 

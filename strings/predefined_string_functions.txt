@@ -1,0 +1,29 @@
+https://www.codesdope.com/blog/article/predefined-string-functions-of-c-in-stringh-librar/#strchr
+
+The functions present in the string.h header are: (need to add functions that use pointers)
+
+
+1.  strlen(s1) calculates the length of string s1. strlen doesn't count '\0' while calculating the length of a string.
+
+
+2.  strcat(s1, s2) concatenates(joins) the second string s2 to the first string s1.
+
+
+3.  strcpy(s1, s2) copies the second string s2 to the first string s1.
+
+
+4.  strncpy(s1, s2, n) copies the first ‘n’ characters of the second string s2 to the first string s1. Need to manually terminate s1 by using escape character '\0'
+
+
+5.  strcmp(s1, s2) compares two strings and finds out whether they are same or different. It compares the two strings character by character till there 
+is a mismatch. If the two strings are identical, it returns a 0. If not, then it returns the difference between the ASCII values of the first non-matching 
+pair of characters.
+
+
+6.  strncmp(s1, s2, n) compares the first ‘n’ characters of s1 and s2.
+
+
+7.  
+
+
+

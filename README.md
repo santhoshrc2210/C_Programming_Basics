@@ -14,4 +14,5 @@ Topics (to be)covered:
 Sources: programmingwithbasics.com and Ritchie + [Balguruswamy, sanfoundry, mycodeschool and geeksforgeeks]
 
 
-Problems from: https://docs.google.com/document/d/1jFAATUSQdrrqmppvStE9X2vw5wJc-HUEaUa-paw3Ulg/edit#heading=h.gbtdk7d1t0je
+Problems from: 1.  https://docs.google.com/document/d/1jFAATUSQdrrqmppvStE9X2vw5wJc-HUEaUa-paw3Ulg/edit#heading=h.gbtdk7d1t0je
+               2.  https://www.programmingwithbasics.com/p/list-c-language-programs.html

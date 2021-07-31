@@ -1,0 +1,22 @@
+same syntax as structures
+difference in storage, in structures each memeber has its own storage location. In unions all members have same storage location, 
+it can handle only one member at a time.
+
+//creating a union name code
+union item 
+{
+    int m;
+    float x;
+    char c;
+    } code;
+
+compiler allocates memory that can store the largest piece of memory, four bytes for a float variable in this case
+
+code.m=379
+code.x=7859.36
+printf("%d",code.m)
+//will give wrong result
+
+unions can be initialized with type of the first value. For ex:
+union item abc={10};//first member is int
+union item abc={57.45};//error

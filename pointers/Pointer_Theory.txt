@@ -1,0 +1,22 @@
+. pointers contain memory addresses as their values
+. computer's memory is a sequentional collection of storage cells, each with a unique 
+address
+.  since a pointer is also a variable, its value is also stored in the memory in 
+another location
+.  address of operator: p=&variable;(cannot be constant or an array name), p stores the
+address of variable.
+.  declaring pointer variable: data_type *pt_name(* indicates that pt_name is a pointer
+variable), pt_name points to variable of type data_type
+.  using unary operator '*' the value of the variable can be accessed using pointer
+.  int quantity, *p,n;
+   quantity=179;
+   p=&quantity;
+   n=*p;(*p is 'the value at the address in p', value in p is the address of variable 
+   quantity),variable 'quantity' can be accessed in this way
+.  n=*&quantity is equal to n=quantity
+.  possible to make a pointer point to another pointer
+.  pointer expressions: pointers cannot be used in divison, multiplication or addition
+.  (),*/,+-,=:precedence rule
+.  pointer arithematic: 4*-*p2/*p1+10 ==9 (*p2=4,*p1=12)
+.  pointers and multidimensional arrays
+.  

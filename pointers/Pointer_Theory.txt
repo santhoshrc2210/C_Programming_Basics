@@ -1,6 +1,6 @@
 . pointers contain memory addresses as their values
 . computer's memory is a sequentional collection of storage cells, each with a unique 
-address
+address 64K=65,536. Not 64,000.(1K=1024)
 .  since a pointer is also a variable, its value is also stored in the memory in 
 another location
 .  address of operator: p=&variable;(cannot be constant or an array name), p stores the

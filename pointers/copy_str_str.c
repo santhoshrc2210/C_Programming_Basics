@@ -6,8 +6,8 @@ int main() {
     char str1[]="Hel",str2[]="Bye";
     //*str1 always points to the zeroth element
     char *s1,*s2;
-    s1=&str1;//points to zero th element in str1
-    s2=&str2;//points to zero th element in str2
+    s1=&str1;//points to zero th element in str1, s1=str1 also works the same
+    s2=&str2;//points to zero th element in str2, s2=str2 also works the same
     while (*s2!='\0'){
         *s1=*s2;
         s1++;

@@ -2,7 +2,7 @@
 #include <stdio.h>
 
 int main() {
-    // insert code here...
+    
     int num,num_1,num_2,fib_num,idx=3;
     printf("Enter number:");
     scanf("%d",&num);

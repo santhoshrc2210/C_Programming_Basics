@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main() {
-    // insert code here...
+    // armstrong number is equal to the sum of cube of its digits
     int num,arm_num=0,chk_num,rem;
     printf("Enter number:");
     scanf("%d",&num);
